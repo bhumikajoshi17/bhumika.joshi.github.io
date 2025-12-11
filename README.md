@@ -8,23 +8,14 @@ Passionate about building scalable applications, solving real-world problems, an
 
 To leverage my skills as a full-stack developer in creating efficient, user-centric products. I aim to work in collaborative environments where I can learn, grow, and contribute to impactful technological solutions.
 
-
-cv_bhumika_joshi
-
 🎓 Education
-Uttarakhand Technical University (2022–2026)
+1.Uttarakhand Technical University (2022–2026)
 
 B.Tech in Computer Science — CGPA: 8
 
-
-cv_bhumika_joshi
-
-S.K.M Sr. Secondary School (2022)
+2.S.K.M Sr. Secondary School (2022)
 
 12th Grade — 81%
-
-
-cv_bhumika_joshi
 
 🛠️ Technical Skills
 
@@ -34,94 +25,54 @@ Databases: MongoDB / NoSQL, SQL
 Programming: JavaScript, Python, C++
 Tools: Git, GitHub, Postman, Npm, Eslint, Prettier, VS Code
 
-
-cv_bhumika_joshi
-
 📘 Projects
-🚀 Feedback Management System (Minor Project | Oct 2025 – Present)
-
+1.🚀 Feedback Management System (Minor Project | Oct 2025 – Present)
+project link - https://github.com/Garimabisht12/feedback_management_system
 Stack: MERN
+i.Full-stack system to collect & analyze student feedback
+ii.Admin dashboards, analytics, secure authentication
+iii.REST APIs & automated report generation
 
-Full-stack system to collect & analyze student feedback
-
-Admin dashboards, analytics, secure authentication
-
-REST APIs & automated report generation
-
-
-cv_bhumika_joshi
-
-🚗 Car Rental Web App (March 2025)
-
+2.🚗 Car Rental Web App (March 2025)
+project link- https://github.com/bhumikajoshi17/car-rental
 Stack: React.js, Node.js, Express, MongoDB, ImageKit
+i.MERN-based car rental website
+ii.Integrated ImageKit for optimized image delivery
+iii.Booking form, car listing pages, responsive UI
 
-MERN-based car rental website
-
-Integrated ImageKit for optimized image delivery
-
-Booking form, car listing pages, responsive UI
-
-
-cv_bhumika_joshi
-
-📝 Paste App (January 2025)
-
+3.📝 Paste App (January 2025)
+project link- https://github.com/bhumikajoshi17/notes
 Stack: React.js
-
-Lightweight web app for storing notes/snippets
-
-Create, edit, copy & share features
-
-Uses LocalStorage for instant offline persistence
-
-
-cv_bhumika_joshi
+i.Lightweight web app for storing notes/snippets
+ii.Create, edit, copy & share features
+iii.Uses LocalStorage for instant offline persistence
 
 🤝 Positions of Responsibility
-Alumni Cell Coordinator (2024 – Present)
 
-Facilitated communication between alumni & students
+i.Alumni Cell Coordinator (2024 – Present)
+  Facilitated communication between alumni & students
+  Conducted events and outreach programs
 
-Conducted events and outreach programs
-
-
-cv_bhumika_joshi
-
-Sports Secretary (2024 – Present)
-
-Organized sports events & encouraged student participation
-
-
-cv_bhumika_joshi
+ii.Sports Secretary (2024 – Present)
+   Organized sports events & encouraged student participation
 
 🌟 Extracurricular Activities
-NSS Volunteer (March 2025)
+1.NSS Volunteer (March 2025)
 
-Participated in a 7-day NSS Camp focusing on community service & leadership
+  Participated in a 7-day NSS Camp focusing on community service & leadership
 
+2.North Zone Table Tennis Player (October 2024)
 
-cv_bhumika_joshi
+  Competed among 50 teams at zonal level
 
-North Zone Table Tennis Player (October 2024)
+3.State-Level Basketball Player (2019)
 
-Competed among 50 teams at zonal level
-
-
-cv_bhumika_joshi
-
-State-Level Basketball Player (2019)
-
-Represented state-level tournaments showing teamwork & discipline
-
-
-cv_bhumika_joshi
-
-🔗 Links
+  Represented state-level tournaments showing teamwork & discipline
 
 Email: joshibhumi172005@gmail.com
 
-LinkedIn: Add Link
+LinkedIn:(https://www.linkedin.com/in/bhumika-joshi-7819882b8/)
 
-GitHub: Add Link
+GitHub: (https://github.com/bhumikajoshi17)
 
-LeetCode / Codeforces / GfG: Add Links
+LeetCode :(https://leetcode.com/u/TSaJVujSIL/)
